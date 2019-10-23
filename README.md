@@ -1,3 +1,3 @@
-# .locres translated in French.
+# .locres decompiled from Fortnite French files.
 
 Discontinued.
