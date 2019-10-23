@@ -1,1 +1,3 @@
-# Fortnite .locres FR
+# .locres translated in French.
+
+Discontinued.
